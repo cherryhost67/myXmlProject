@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="crossword.xsl" type="text/xsl"?>
 <crossword>
     <grid width="15" height="15">
         <grid-look numbering-scheme="normal" cell-size-in-pixels="25" clue-square-divider-width="0.7"/>
